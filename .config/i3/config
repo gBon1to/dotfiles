@@ -124,7 +124,7 @@ assign [class="Chromium"] $ws1
 assign [class="firefoxdeveloperedition"] $ws1
 assign [class="Tor Browser"] $ws1
 assign [class="Thunar"] $ws1
-assign [class="kitty"] $ws2
+assign [class="Terminator"] $ws2
 assign [class="Geany"] $ws3
 #assign [class="Keepass*"] $ws3
 #assign [class="Remmina*"] $ws3
@@ -184,8 +184,8 @@ bindsym XF86AudioPlay exec playerctl play-pause
 bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 
-# Start kitty
-bindsym $mod+x exec kitty
+# Start terminator
+bindsym $mod+x exec terminator
 
 # Start rofi
 bindsym $mod+d exec rofi -show run -lines 10
