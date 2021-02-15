@@ -32,7 +32,7 @@
     cursor_color = "#aaaaaa"
     font = Fira Code 10
     foreground_color = "#ffffff"
-    show_titlebar = False
+    scrollbar_position = hidden
     scrollback_infinite = True
     use_system_font = False
     copy_on_selection = True

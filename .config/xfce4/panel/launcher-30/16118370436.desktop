@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Eclipse IDE
+Exec=/opt/eclipse/eclipse %u
+Type=Application
+MimeType=x-scheme-handler/eclipse+command;x-scheme-handler/eclipse+mpc;
+Icon=/opt/eclipse/icon.xpm
+Categories=Application;
+X-XFCE-Source=file:///usr/share/applications/eclipse.desktop

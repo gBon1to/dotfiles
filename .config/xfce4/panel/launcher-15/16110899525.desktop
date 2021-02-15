@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Burp Suite Professional
+Exec="/opt/burpsuite/BurpSuitePro" %U
+Icon=/opt/burpsuite/.install4j/BurpSuitePro.png
+Categories=Application;
+StartupWMClass=install4j-burp-StartBurp
+X-XFCE-Source=file:///usr/share/applications/install4j_10a3984-BurpSuitePro.desktop

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=OnionShare
+GenericName=OnionShare Client
+Comment=Share a file securely and anonymously over Tor
+Exec=/usr/bin/onionshare-gui
+Terminal=false
+Type=Application
+Icon=org.onionshare.OnionShare
+Categories=Network;FileTransfer;
+Keywords=tor;anonymity;privacy;onion service;file sharing;file hosting;
+StartupNotify=true
+StartupWMClass=onionshare
+X-XFCE-Source=file:///usr/share/applications/org.onionshare.OnionShare.desktop
