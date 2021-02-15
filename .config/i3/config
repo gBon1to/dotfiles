@@ -202,8 +202,8 @@ bindsym $mod+shift+c exec chromium --incognito
 # Start firefox
 bindsym $mod+f exec firefox-developer-edition
 
-# Start code
-bindsym $mod+v exec geany
+# Start sublime
+bindsym $mod+v exec subl
 
 # Start flameshot
 bindsym shift+print exec flameshot gui
