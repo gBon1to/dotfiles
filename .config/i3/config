@@ -125,7 +125,7 @@ assign [class="firefoxdeveloperedition"] $ws1
 assign [class="Tor Browser"] $ws1
 assign [class="Thunar"] $ws1
 assign [class="Terminator"] $ws2
-assign [class="Geany"] $ws3
+assign [class="Sublime Text"] $ws3
 #assign [class="Keepass*"] $ws3
 #assign [class="Remmina*"] $ws3
 #assign [class="Burp Suite*"] $ws3
@@ -137,7 +137,6 @@ assign [class="Virtualbox*"] $ws4
 #assign [class="Gimp*"] $ws5
 #assign [class="Shotcut*"] $ws5
 assign [class="Thunderbird"] $ws6
-#assign [class="Discord*"] $ws7
 assign [class="Steam"] $ws8
 #assign [class="Counter Strike*"] $ws8
 assign [class="obs"] $ws9
@@ -209,7 +208,7 @@ bindsym $mod+v exec subl
 bindsym shift+print exec flameshot gui
 
 # Set wallpaper
-exec_always feh --bg-fill /usr/share/backgrounds/xfce/xfce-blue.jpg
+exec_always feh --bg-fill /usr/share/backgrounds/wallpaper.jpg
 
 # Execute network-manager on startup
 exec --no-startup-id nm-applet
