@@ -9,6 +9,7 @@ XDG_PICTURES_DIR="$HOME/pictures"
 XDG_VIDEOS_DIR="$HOME/videos"
 
 # custom directories
+XDG_ARCHIVE_DIR="$HOME/archive"
 XDG_BBPS_DIR="$HOME/bbps"
 XDG_COURSES_DIR="$HOME/courses"
 XDG_CTFS_DIR="$HOME/ctfs"
